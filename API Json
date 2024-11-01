@@ -1,0 +1,296 @@
+https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ=s72-c
+Dark- Dose75 <mattamos250@gmail.com>	Fri, Nov 1, 2024 at 9:51 AM
+To: syncshop@sonymusic.com, friohotbocachica@gmail.com, myhomehotelpc@gmail.com, West Coast Tbars <westcoast.tbars1@gmail.com>, Nroberts51@live.com, Dark- “Organized Crime” Dose75 <mattamos250@gmail.com>, emosbaa@xplornet.com, j.amos@outlook.com, brucethepieman <brucethepieman@gmail.com>, greenlion366@hotmail.com
+unchecked<!DOCTYPE html>
+unchecked<html>
+unchecked  <body>
+unchecked    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+unchecked    <div id="player"></div>
+unchecked
+unchecked    <script>
+unchecked      // 2. This code loads the IFrame Player API code asynchronously.
+unchecked      var tag = document.createElement('script');
+unchecked
+unchecked      tag.src = "https://www.youtube.com/iframe_api";
+unchecked      var firstScriptTag = document.getElementsByTagName('script')[0];
+unchecked      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+unchecked
+unchecked      // 3. This function creates an <iframe> (and YouTube player)
+unchecked      //    after the API code downloads.
+unchecked      var player;
+unchecked      function onYouTubeIframeAPIReady() {
+unchecked        player = new YT.Player('player', {
+unchecked          height: '390',
+unchecked          width: '640',
+unchecked          videoId: 'M7lc1UVf-VE',
+unchecked          playerVars: {
+unchecked            'playsinline': 1
+unchecked          },
+unchecked          events: {
+unchecked            'onReady': onPlayerReady,
+unchecked            'onStateChange': onPlayerStateChange
+unchecked          }
+unchecked        });
+unchecked      }
+unchecked
+unchecked      // 4. The API will call this function when the video player is ready.
+unchecked      function onPlayerReady(event) {
+unchecked        event.target.playVideo();
+unchecked      }
+unchecked
+unchecked      // 5. The API calls this function when the player's state changes.
+unchecked      //    The function indicates that when playing a video (state=1),
+unchecked      //    the player should play for six seconds and then stop.
+unchecked      var done = false;
+unchecked      function onPlayerStateChange(event) {
+unchecked        if (event.data == YT.PlayerState.PLAYING && !done) {
+unchecked          setTimeout(stopVideo, 6000);
+unchecked          done = true;
+unchecked        }
+unchecked      }
+unchecked      function stopVideo() {
+unchecked        player.stopVideo();
+unchecked      }
+unchecked    </script>
+unchecked  </body>
+unchecked</html>
+unchecked[https://newbrun506.blogspot.com/search/label/.%[![image](https://user-images.githubusercontent.com/93821375/230675549-c05eba3d-cc7e-410e-9d8f-0e0b3ab28750.png)](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)
+unchecked@emosbaa@xplornet.com @syncshop@sonymusic.com @j.amos@outlook.com @brucethepieman @greenlion366@hotmail.com 
+{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{ @myhomehotelpc@gmail.com  ok later fear-less-on-my -loyalty-for-cc-{{{{{{{
+
+
+
+On Fri, Nov 1, 2024 at 9:49 AM Dark- Dose75 <mattamos250@gmail.com> wrote:
+Yes im allowed to have it     https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ=s72-c
+Inbox
+Search for all messages with label Inbox
+
+
+      
+unchecked<!DOCTYPE html>
+unchecked<html>
+unchecked  <body>
+unchecked    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+unchecked    <div id="player"></div>
+unchecked
+unchecked    <script>
+unchecked      // 2. This code loads the IFrame Player API code asynchronously.
+unchecked      var tag = document.createElement('script');
+unchecked
+unchecked      tag.src = "https://www.youtube.com/iframe_api";
+unchecked      var firstScriptTag = document.getElementsByTagName('script')[0];
+unchecked      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+unchecked
+unchecked      // 3. This function creates an <iframe> (and YouTube player)
+unchecked      //    after the API code downloads.
+unchecked      var player;
+unchecked      function onYouTubeIframeAPIReady() {
+unchecked        player = new YT.Player('player', {
+unchecked          height: '390',
+unchecked          width: '640',
+unchecked          videoId: 'M7lc1UVf-VE',
+unchecked          playerVars: {
+unchecked            'playsinline': 1
+unchecked          },
+unchecked          events: {
+unchecked            'onReady': onPlayerReady,
+unchecked            'onStateChange': onPlayerStateChange
+unchecked          }
+unchecked        });
+unchecked      }
+unchecked
+unchecked      // 4. The API will call this function when the video player is ready.
+unchecked      function onPlayerReady(event) {
+unchecked        event.target.playVideo();
+unchecked      }
+unchecked
+unchecked      // 5. The API calls this function when the player's state changes.
+unchecked      //    The function indicates that when playing a video (state=1),
+unchecked      //    the player should play for six seconds and then stop.
+unchecked      var done = false;
+unchecked      function onPlayerStateChange(event) {
+unchecked        if (event.data == YT.PlayerState.PLAYING && !done) {
+unchecked          setTimeout(stopVideo, 6000);
+unchecked          done = true;
+unchecked        }
+unchecked      }
+unchecked      function stopVideo() {
+unchecked        player.stopVideo();
+unchecked      }
+unchecked    </script>
+unchecked  </body>
+unchecked</html>
+unchecked[https://newbrun506.blogspot.com/search/label/.%[![image](https://user-images.githubusercontent.com/93821375/230675549-c05eba3d-cc7e-410e-9d8f-0e0b3ab28750.png)](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)
+unchecked@emosbaa@xplornet.com @syncshop@sonymusic.com @j.amos@outlook.com @brucethepieman @greenlion366@hotmail.com 
+
+On Fri, Nov 1, 2024 at 9:46 AM Dark- Dose75 <mattamos250@gmail.com> wrote:
+unchecked<!DOCTYPE html>
+unchecked<html>
+unchecked  <body>
+unchecked    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+unchecked    <div id="player"></div>
+unchecked
+unchecked    <script>
+unchecked      // 2. This code loads the IFrame Player API code asynchronously.
+unchecked      var tag = document.createElement('script');
+unchecked
+unchecked      tag.src = "https://www.youtube.com/iframe_api";
+unchecked      var firstScriptTag = document.getElementsByTagName('script')[0];
+unchecked      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+unchecked
+unchecked      // 3. This function creates an <iframe> (and YouTube player)
+unchecked      //    after the API code downloads.
+unchecked      var player;
+unchecked      function onYouTubeIframeAPIReady() {
+unchecked        player = new YT.Player('player', {
+unchecked          height: '390',
+unchecked          width: '640',
+unchecked          videoId: 'M7lc1UVf-VE',
+unchecked          playerVars: {
+unchecked            'playsinline': 1
+unchecked          },
+unchecked          events: {
+unchecked            'onReady': onPlayerReady,
+unchecked            'onStateChange': onPlayerStateChange
+unchecked          }
+unchecked        });
+unchecked      }
+unchecked
+unchecked      // 4. The API will call this function when the video player is ready.
+unchecked      function onPlayerReady(event) {
+unchecked        event.target.playVideo();
+unchecked      }
+unchecked
+unchecked      // 5. The API calls this function when the player's state changes.
+unchecked      //    The function indicates that when playing a video (state=1),
+unchecked      //    the player should play for six seconds and then stop.
+unchecked      var done = false;
+unchecked      function onPlayerStateChange(event) {
+unchecked        if (event.data == YT.PlayerState.PLAYING && !done) {
+unchecked          setTimeout(stopVideo, 6000);
+unchecked          done = true;
+unchecked        }
+unchecked      }
+unchecked      function stopVideo() {
+unchecked        player.stopVideo();
+unchecked      }
+unchecked    </script>
+unchecked  </body>
+unchecked</html>
+unchecked[https://newbrun506.blogspot.com/search/label/.%[![image](https://user-images.githubusercontent.com/93821375/230675549-c05eba3d-cc7e-410e-9d8f-0e0b3ab28750.png)](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)
+unchecked@emosbaa@xplornet.com @syncshop@sonymusic.com @j.amos@outlook.com @brucethepieman @greenlion366@hotmail.com 
+ 
+Here Madonna Ya Cunt the Program that Your Lovers Like @Nroberts51@live.com  like to use on guys that is going start an allainace 
+with the other 4 trademarks with me against ya sell out cc peace of shit @myhomehotelpc@gmail.com  @friohotbocachica@gmail.com 
+
+On Thu, Oct 31, 2024 at 5:13 PM Dark- Dose75 <mattamos250@gmail.com> wrote:
+
+
+https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ=s72-c
+
+
+On Thu., Oct. 31, 2024, 16:23 Dark- Dose75, <mattamos250@gmail.com> wrote:
+
+https://docs.google.com/document/d/1deylYdnuIQc_W_rvGDVULnkIejeqLnZz8L-PJfFYHBc/edit?pli=1&tab=t.0
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
